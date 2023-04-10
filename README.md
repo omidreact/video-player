@@ -1,2 +1,3 @@
 # video-player
 react-native-video
+Creating a folder with the name Omid and adding videos with the names 1.mp4 & 2.mp4 , ... 
